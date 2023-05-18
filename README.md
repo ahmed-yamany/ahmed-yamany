@@ -1,26 +1,14 @@
-<style>
-p {
-  display:inline;
-}
-</style>  
 <h1 align="center">Hey 👋, I'm Ahmed Mohemmed Yamany</h1>
 <h3 align="center">A passionate Software Engineer, I'm an iOS Mobile Application Developer</h3>
-<p>
-    <img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="Ahmed Yamany" /> 
-    <br> 
-</p>
+<img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="Ahmed Yamany" /> 
 
-<p align="left">
-     <br>
-    <a href="https://www.linkedin.com/in/ahmed-yamany/" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed_yamany?logo=linkedin&style=flat" alt="ahmed_yamany" /></a>
-</p>
-
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=ahmed-yamany&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-yamany" /> </p>
+<a href="https://www.linkedin.com/in/ahmed-yamany/" target="blank"><br><img src="https://img.shields.io/twitter/follow/ahmed_yamany?logo=linkedin&style=flat" alt="ahmed_yamany" /></a>
+<a href="https://www.linkedin.com/in/ahmed-yamany" ><img src="https://komarev.com/ghpvc/?username=ahmed-yamany&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-yamany" /></a>
 
 
 - 🌱 I’m currently learning **UIKit, SwiftUI, Functional Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed-yamany](https://github.com/ahmed-yamany)
+- 👨‍💻 All of my projects are available at [https://github.com/ahmed-yamany?tab=repositories](https://github.com/ahmed-yamany?tab=repositories)
 
 
 - 💬 Ask me about **IOS**
@@ -29,7 +17,6 @@ p {
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1f6tp_8S29B717r0GIpixEf1Lgf8KVWvL/view)
 
-- ⚡ Fun fact **I'm Funny :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,6 +37,8 @@ p {
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-yamany&show_icons=true&locale=en&layout=compact" alt="ahmed-yamany" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-yamany&show_icons=true&locale=en" alt="ahmed-yamany" /> <br> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-yamany&show_icons=true&locale=en&theme=graywhite" alt="ahmed-yamany" /> <br> </p>
 
-<p align="center"> <br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-yamany&" alt="ahmed-yamany" /></p>
+<p align="center"> <br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-yamany&theme=swift" alt="ahmed-yamany" /></p>
+
+

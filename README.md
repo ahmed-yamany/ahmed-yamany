@@ -3,7 +3,7 @@
 <img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="Ahmed Yamany" /> 
 
 <a href="https://www.linkedin.com/in/ahmed-yamany/" target="blank"><br><img src="https://img.shields.io/twitter/follow/ahmed_yamany?logo=linkedin&style=flat" alt="ahmed_yamany" /></a>
-<img src="https://komarev.com/ghpvc/?username=ahmed-yamany&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-yamany"/>
+<a href="" ><img src="https://komarev.com/ghpvc/?username=ahmed-yamany&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-yamany" /></a>
 
 
 - 🌱 I’m currently learning **UIKit, SwiftUI, Functional Programming**

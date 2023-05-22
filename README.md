@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ahmed Mohemmed Yamany</h1>
-<h3 align="center">A passionate Software Engineer, I'm an iOS Mobile Application Developer</h3>
+<h3 align="center">I'm Intersted in iOS Mobile Application Development</h3>
 <img align="center" src="https://miro.medium.com/max/1200/1*kW3vK1LpYOyG0JA12urVAQ.png" alt="Ahmed Yamany" /> 
 
 <a href="https://www.linkedin.com/in/ahmed-yamany/" target="blank"><br><img src="https://img.shields.io/twitter/follow/ahmed_yamany?logo=linkedin&style=flat" alt="ahmed_yamany" /></a>
